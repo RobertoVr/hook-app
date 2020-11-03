@@ -3,6 +3,7 @@ body {
 }
 
 p {
+  user-select: none;
   cursor: pointer;
   margin: 0px;
 }
