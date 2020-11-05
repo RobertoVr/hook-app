@@ -19,7 +19,6 @@ export const MultipleCustomHooks = () => {
                         <div className="alert alert-info text-center">
                             Loading......
                         </div>
-
                     ) :
                     (
                         <blockquote className="blackquote text-right">

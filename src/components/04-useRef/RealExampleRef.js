@@ -8,7 +8,7 @@ export const RealExampleRef = () => {
 
     return (
         <div>
-            <h1>hol</h1>
+            <h1>RealExampleRef</h1>
             <hr></hr>
             {show && <MultipleCustomHooks />}
             <button
